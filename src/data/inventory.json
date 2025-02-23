@@ -237,6 +237,14 @@
             "description": "Rechargeable toothbrush with multiple cleaning modes",
             "type": "electronics",
             "price": 39.99
+        },
+        {
+            "id": 41,
+            "name": "Dishes",
+            "description": "nice and clean and ready to use for food",
+            "type": "kitchenware",
+            "price": 39.99
         }
+
     ]
 }

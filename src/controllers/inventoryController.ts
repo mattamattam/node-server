@@ -4,14 +4,14 @@ import { getAllInventory, getInventoryById, getInventoryByType, getInventoryTota
 
 export const getProductsTotalCost = async (req: Request, res: Response) => {
     const totalCost = await getInventoryTotalCost();
-    res.json({ "totalCost": totalCost});
+    res.status(200).json({ "totalCost": totalCost});
 };
 
 export const getProductsByType = (req: Request, res: Response) => {
     const inventoryType : InventoryType = req.params.type as InventoryType;
     const items = getInventoryByType(inventoryType);
     if (items.length > 0) {
-        res.json(items);
+        res.status(200).json(items);
     } else {
         res.status(404).send("No products of this type found.");
     }
@@ -21,12 +21,12 @@ export const getProductById = (req: Request, res: Response) => {
     const productId = parseInt(req.params.id);
     const item = getInventoryById(productId);
     if (item != null) {
-        res.json(item);
+        res.status(200).json(item);
     } else {
         res.status(404).send("Product Not Found");
     }
 };
 
 export const getAllProducts = (req: Request, res: Response) => {
-    res.json(getAllInventory());
+    res.status(200).json(getAllInventory());
 }
