@@ -1,0 +1,242 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Men's T-shirt",
+            "description": "Basic men's t-shirt in multiple colors - blue, black, green",
+            "type": "clothing",
+            "price": 9.99
+        },
+        {
+            "id": 2,
+            "name": "Women's Skirt",
+            "description": "Basic women's skirt in multiple colors - blue, black, green",
+            "type": "clothing",
+            "price": 15.99
+        },
+        {
+            "id": 9,
+            "name": "Men's Jeans",
+            "description": "Classic fit men's jeans available in various sizes and colors",
+            "type": "clothing",
+            "price": 29.99
+        },
+        {
+            "id": 10,
+            "name": "Women's Sweater",
+            "description": "Cozy and warm women's sweater, perfect for cold weather",
+            "type": "clothing",
+            "price": 24.99
+        },
+        {
+            "id": 11,
+            "name": "Leather Jacket",
+            "description": "Stylish and durable men's leather jacket",
+            "type": "clothing",
+            "price": 99.99
+        },
+        {
+            "id": 12,
+            "name": "Unisex Hoodie",
+            "description": "Comfortable hoodie for all seasons, available in different colors",
+            "type": "clothing",
+            "price": 34.99
+        },
+        {
+            "id": 13,
+            "name": "Men's Sneakers",
+            "description": "Sporty and comfortable men's sneakers",
+            "type": "clothing",
+            "price": 49.99
+        },
+        {
+            "id": 14,
+            "name": "Women's Sandals",
+            "description": "Casual and stylish sandals for women",
+            "type": "clothing",
+            "price": 19.99
+        },
+        {
+            "id": 15,
+            "name": "Dozen Doughnuts",
+            "description": "Donuts are yummy. Eat some.",
+            "type": "food",
+            "price": 5.99
+        },
+        {
+            "id": 16,
+            "name": "Bananas",
+            "description": "One bunch of bananas. Nutritious!",
+            "type": "food",
+            "price": 2.99
+        },
+        {
+            "id": 17,
+            "name": "Bag of Apples",
+            "description": "Fresh and crisp apples in every bag",
+            "type": "food",
+            "price": 4.49
+        },
+        {
+            "id": 18,
+            "name": "Organic Strawberries",
+            "description": "Fresh organic strawberries for a healthy snack",
+            "type": "food",
+            "price": 6.99
+        },
+        {
+            "id": 19,
+            "name": "Chocolate Cake",
+            "description": "Delicious and moist chocolate cake",
+            "type": "food",
+            "price": 12.99
+        },
+        {
+            "id": 20,
+            "name": "Vegetable Soup",
+            "description": "Healthy and hearty vegetable soup",
+            "type": "food",
+            "price": 3.99
+        },
+        {
+            "id": 21,
+            "name": "Spaghetti with Marinara Sauce",
+            "description": "Classic spaghetti dish with savory marinara sauce",
+            "type": "food",
+            "price": 8.49
+        },
+        {
+            "id": 22,
+            "name": "Canned Tuna",
+            "description": "High-quality canned tuna, perfect for quick meals",
+            "type": "food",
+            "price": 2.49
+        },
+        {
+            "id": 23,
+            "name": "War & Peace by Leo Tolstoy",
+            "description": "Find out how Napoleon froze his army.",
+            "type": "books",
+            "price": 12.99
+        },
+        {
+            "id": 24,
+            "name": "Slaughterhouse Five by Kurt Vonnegut",
+            "description": "You really should read this.",
+            "type": "books",
+            "price": 8.99
+        },
+        {
+            "id": 25,
+            "name": "The Great Gatsby by F. Scott Fitzgerald",
+            "description": "A classic novel of the Roaring Twenties.",
+            "type": "books",
+            "price": 10.99
+        },
+        {
+            "id": 26,
+            "name": "1984 by George Orwell",
+            "description": "A dystopian novel set in a totalitarian society.",
+            "type": "books",
+            "price": 9.49
+        },
+        {
+            "id": 27,
+            "name": "Pride and Prejudice by Jane Austen",
+            "description": "A tale of love, manners, and social expectations.",
+            "type": "books",
+            "price": 7.99
+        },
+        {
+            "id": 28,
+            "name": "To Kill a Mockingbird by Harper Lee",
+            "description": "A poignant novel about race and justice in the American South.",
+            "type": "books",
+            "price": 11.99
+        },
+        {
+            "id": 29,
+            "name": "The Catcher in the Rye by J.D. Salinger",
+            "description": "A story about teenage rebellion and isolation.",
+            "type": "books",
+            "price": 8.79
+        },
+        {
+            "id": 30,
+            "name": "The Hobbit by J.R.R. Tolkien",
+            "description": "An epic fantasy tale of adventure and heroism.",
+            "type": "books",
+            "price": 14.49
+        },
+        {
+            "id": 31,
+            "name": "The Diary of a Young Girl by Anne Frank",
+            "description": "The poignant diary of Anne Frank during the Holocaust.",
+            "type": "books",
+            "price": 10.49
+        },
+        {
+            "id": 32,
+            "name": "Transistor Radio",
+            "description": "State of the art for 1960",
+            "type": "electronics",
+            "price": 28.99
+        },
+        {
+            "id": 33,
+            "name": "CD Player",
+            "description": "State of the art for 1990",
+            "type": "electronics",
+            "price": 23.99
+        },
+        {
+            "id": 34,
+            "name": "Smartphone",
+            "description": "Latest smartphone with cutting-edge features",
+            "type": "electronics",
+            "price": 699.99
+        },
+        {
+            "id": 35,
+            "name": "Bluetooth Headphones",
+            "description": "Wireless headphones with superior sound quality",
+            "type": "electronics",
+            "price": 129.99
+        },
+        {
+            "id": 36,
+            "name": "Laptop",
+            "description": "High-performance laptop for work and play",
+            "type": "electronics",
+            "price": 799.99
+        },
+        {
+            "id": 37,
+            "name": "4K TV",
+            "description": "Stunning 4K resolution television for ultimate viewing experience",
+            "type": "electronics",
+            "price": 499.99
+        },
+        {
+            "id": 38,
+            "name": "Smartwatch",
+            "description": "Track your fitness and notifications with this stylish smartwatch",
+            "type": "electronics",
+            "price": 199.99
+        },
+        {
+            "id": 39,
+            "name": "Digital Camera",
+            "description": "Capture high-quality images with this digital camera",
+            "type": "electronics",
+            "price": 249.99
+        },
+        {
+            "id": 40,
+            "name": "Electric Toothbrush",
+            "description": "Rechargeable toothbrush with multiple cleaning modes",
+            "type": "electronics",
+            "price": 39.99
+        }
+    ]
+}
